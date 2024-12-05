@@ -1,7 +1,7 @@
 ### Olá! Lucas aqui 👋
 
-- 🔭 Eu ainda não estou trabalhando.
-- 🌱 Estou cursando a faculdade de ciências da computação.
+- 🔭 Trabalho como Analista de Suporte.
+- 🌱 Cursei a faculdade de ciências da computação.
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
